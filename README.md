@@ -1,12 +1,12 @@
 Hi folks,
 
-i'm Prajna Bhandary, I love problem solving & coding with a deep passion for technology. I always look forward to try my hands on latest technology. I firmly believe that technology has the potential to change this world and make it a better place. I want to apply my knowledge in the field of AI & robotics, to solve real life
-problems for social good.
+i'm Prajna Bhandary, I love problem solving & coding with a deep passion for technology. I always look forward to try my hands on latest technology. I firmly believe that technology has the potential to change this world and make it a better place. I want to apply my knowledge in the field of AI & robotics, to solve real world
+problems.
 
 
 💼 any freelance work? do reach at prajnasbhandary@gmail.com :)
 
-💬 ask me about my work in linkedin, i am happy to help;
+💬 Want to know more about my work? ping me in linkedin, i am happy to help;
 
 languages and tools:
 
