@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi folks,
 
-<!--
-**prajnasb/prajnasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm Prajna Bhandary, I love problem solving & coding with a deep passion for technology. I always look forward to try my hands on latest technology. I firmly believe that technology has the potential to change this world and make it a better place. I want to apply my knowledge in the field of AI & robotics, to solve real life
+problems for social good.
 
-Here are some ideas to get you started:
+GIF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 any freelance work? do reach at prajnasbhandary@gmail.com :)
+💬 ask me about my work in linkedin, i am happy to help;
+languages and tools:
+machine learning
+deep learning
+data analysis
+python
+pytorch
+tensorflow
+opencv
+azure
+AWS
+etc.
+
+        
+![Alt text](https://media.baamboozle.com/uploads/images/55119/1616174006_327109_url.gif)
