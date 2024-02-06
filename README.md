@@ -6,7 +6,7 @@ problems.
 
 💼 any freelance work? do reach at prajnasbhandary@gmail.com :)
 
-💬 Want to know more about my work? ping me in linkedin, i am happy to help;
+💬 Want to know more about my work? ping me on linkedin, i am happy to help;
 
 languages and tools:
 
